@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 // import './App.css';
-import React, { useState } from "react"
+import React from "react"
 import Portfolio from "./components/Portfolio"
 // import Header from "./components/Header"
 // import Footer from "./components/Footer"
@@ -9,9 +9,9 @@ import Portfolio from "./components/Portfolio"
 
 function App() {
   return (
-    <div className="App">
+    <main className="text-gray-400 bg-gray-900 body-font">
       <Portfolio />
-    </div>
+    </main>
   );
 }
 
