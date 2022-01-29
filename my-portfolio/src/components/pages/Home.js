@@ -3,7 +3,8 @@ import React from 'react';
 export default function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>Hello! My name is Jared Inya-Agha</h1>
+      <h2>I love programming!</h2>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
@@ -17,5 +18,6 @@ export default function Home() {
         fames ac ante ipsum primis in faucibus.
       </p>
     </div>
+    
   );
 }
